@@ -58,7 +58,7 @@ body {
 
 #backGround:before {
     content: "";
-    background-image: url(../img/index/bgindex.jpg);
+    background-image: url(../bgindex.jpg);
     background-size: cover;
     position: absolute;
     top: 0px;
